@@ -1,0 +1,5 @@
+secret manager
+{
+                  port :8080
+                  ip: 20.20.20.20
+}
